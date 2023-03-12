@@ -2,7 +2,7 @@ import string
 
 def simpleencrypt():
 
-    letters  = string.ascii_letters #importing string libaries to create a list of characters                         
+    letters = string.ascii_letters #importing string libaries to create a list of characters                         
     numbers = string.digits
     symbols = string.punctuation
 

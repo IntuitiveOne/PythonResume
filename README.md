@@ -1,8 +1,9 @@
 # PythonResume
- Python Projects Demonstrating Coding Ability
+ Python Projects/Exercises Demonstrating Current Ability and Ongoing Learning of Liam Finnie
 
- 1. BMI Calculator
- 2. Rock Paper Scissors
- 3. Password Generator
- 4. Hangman Game
- 5. Encryption Program
+ 1. BMI Calculator (Demonstrating simple if/else statement usage and basic operators)
+ 2. Rock Paper Scissors (Demonstrating the use of the random libary and if/else statement logic)
+ 3. Password Generator (Demonstrating variable manipulations and list usage)
+ 4. Hangman Game (Demonstrating advanced list and string variable manipulations)
+ 5. Encryption Program (Demonstrating list manipulations with indexing)
+ 6. Auction Program (Demonstrating understanding of the use of dictionaries and manipulation of them)
