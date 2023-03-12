@@ -5,3 +5,4 @@
  2. Rock Paper Scissors
  3. Password Generator
  4. Hangman Game
+ 5. Encryption Program
