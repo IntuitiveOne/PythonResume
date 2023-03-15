@@ -7,3 +7,4 @@
  4. Hangman Game (Demonstrating advanced list and string variable manipulations)
  5. Encryption Program (Demonstrating list manipulations with indexing)
  6. Auction Program (Demonstrating understanding of the use of dictionaries and manipulation of them)
+ 7. Yahoo Finance API (Demonstrating how to access basic Finance API's and setup data for Pandas Libary)
