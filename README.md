@@ -9,3 +9,4 @@
  6. Auction Program (Demonstrating understanding of the use of dictionaries and manipulation of them)
  7. Yahoo Finance API (Demonstrating how to access basic Finance API's and setup data for Pandas Libary)
  8. Basic Matplot Graphs with Financial Data (Demonstrating basic understanding of Pandas and Matplot Modules)
+ 9. Financial Data Analysis of AMZN(Demonstrating understanding of Pandas Libary Functions and Financial Analysis Theory)
